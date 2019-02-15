@@ -9,7 +9,7 @@ class ScoreCounter extends React.Component {
     Georges: GeorgeCard,
     count: 0,
     score: 0,
-    message: "Start by clicking a Costanza below. Try to click all nine Costanzas without clicking one twice! You score a point for every consective Costanza clicked. Good luck!"
+    message: "Start by clicking a Costanza below. Try to click all nine Costanzas without clicking one twice! You score a point for every consecutive Costanza clicked. Good luck!"
   };
 
   // handleCount = () => {
@@ -50,8 +50,6 @@ class ScoreCounter extends React.Component {
       }
     }
   };
-  //add function that take in this.state.George, shuffle it, and map over the new array and render cards
-  // <Card id={elem.id} />
   render() {
     return (
       <Bodywrapper>
