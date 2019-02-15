@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "image": ".assets/images/George1.jpg",
+        "clicked": false
+    },{
+        "id": 2,
+        "image": ".assets/images/George2.jpg",
+        "clicked": false
+    },{
+        "id": 3,
+        "image": ".assets/images/George3.jpg",
+        "clicked": false
+    },{
+        "id": 4,
+        "image": ".assets/images/George4.jpg",
+        "clicked": false
+    },{
+        "id": 5,
+        "image": ".assets/images/George5.jpg",
+        "clicked": false
+    },{
+        "id": 6,
+        "image": ".assets/images/George6.jpg",
+        "clicked": false
+    },{
+        "id": 7,
+        "image": ".assets/images/George7.jpg",
+        "clicked": false
+    },{
+        "id": 8,
+        "image": ".assets/images/George8.jpg",
+        "clicked": false
+    },{
+        "id": 9,
+        "image": ".assets/images/George9.jpg",
+        "clicked": false
+    }
+]
