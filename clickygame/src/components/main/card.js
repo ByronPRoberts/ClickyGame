@@ -5,9 +5,9 @@ class Card extends Component {
 
     render() {
         return (
-        
-                <div className="img-container col-md-3 mx-3 mb-4 p-2">
-                    <img className ="img-fluid" 
+            
+                <div className="card col-md-3 mx-3 mb-4 p-2">
+                    <img className ="img-fluid z-depth-1 height:auto rounded" 
                         onClick={this.props.handleClick}
                         alt={this.props.id}
                         src={this.props.image}

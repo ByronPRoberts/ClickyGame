@@ -64,7 +64,6 @@ class ScoreCounter extends React.Component {
       <Bodywrapper>
         <Navbar />
         <header className="header">
-          <h1> Byron's Clicky Game</h1>
           <h3>Score:{this.state.count}</h3>
           <h3>Top Score:{this.state.score}</h3>
           <h3>

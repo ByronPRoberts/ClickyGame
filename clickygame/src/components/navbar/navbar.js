@@ -7,7 +7,7 @@ class Navbar extends Component {
         return (
             <nav className ="navbar">
                     <div className="brand">
-                        <a href="/">Clicky Game</a>
+                        <h1>Byron's Clicky Game</h1>
                     </div>
 
             </nav>
